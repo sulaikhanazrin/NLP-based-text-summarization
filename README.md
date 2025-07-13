@@ -37,7 +37,7 @@ Here's a quick overview of the key files:
 ## 📈 Limitations
 - LSTM sequence models require fixed-length inputs and may not always handle long or complex texts effectively.
 - Regex patterns may miss or misinterpret information depending on language variability.
-👉 [Check here]([https://nlp-based-text-summarization-juvi2ceyappzxw6sb7nhjkk.streamlit.app/])
+👉 [Check the version here](https://github.com/sulaikhanazrin/NER-NLP)
 ---
 
 ## 🔁 Upgraded Version Available
