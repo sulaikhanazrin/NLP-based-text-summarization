@@ -1,6 +1,0 @@
-streamlit
-tensorflow==2.18.0
-numpy
-pandas
-regex
-json5
